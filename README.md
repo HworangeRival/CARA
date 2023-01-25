@@ -25,4 +25,4 @@ by ..:: Hworange Rival ::..
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hworangerival&label=Profile%20views&color=0e75b6&style=flat" alt="hworangerival" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hworangerival&label=Views&color=0e75b6&style=flat" alt="hworangerival" /> </p>
